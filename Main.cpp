@@ -11,5 +11,3 @@ void loop(){
     Serial.println(readings);
     delay(200);
 }
-
-//Findings show conducivity is present, as the 00.0 variable will go to a 4095.00 limit when pressed against something
